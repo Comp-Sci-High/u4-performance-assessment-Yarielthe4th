@@ -1,0 +1,257 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FAE5D3; /* Warm beige background */
+    text-align: center;
+    color: #5A3E2B; /* Warm brown text */
+}
+
+/* Header */
+.head {
+    background-color: #D55C32; /* Deep warm orange */
+    color: white;
+    padding: 20px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+/* Navigation */
+nav {
+    background-color: #9C3D20; /* Rich warm brown */
+    padding: 10px 0;
+}
+
+nav a {
+    color: #FFD79A; /* Soft warm yellow */
+    text-decoration: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
+    transition: background 0.3s, color 0.3s;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: #D55C32; /* Deep orange */
+    color: white;
+}
+
+/* Centered Content */
+.center {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 25px;
+    background: #FFE6C7; /* Soft warm peach */
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Image Styling */
+.center img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 12px;
+    border: 4px solid #D55C32; /* Deep orange border */
+}
+
+/* Paragraph */
+.center p {
+    font-size: 20px;
+    color: #5A3E2B; /* Warm brown */
+    margin-top: 20px;
+    line-height: 1.6;
+    font-weight: bold;
+}
+
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #FFEDD5, #FAE5D3); /* Soft warm gradient */
+    color: #5A3E2B; /* Warm brown text */
+}
+
+/* Navigation */
+nav {
+    background-color: #9C3D20; /* Rich warm brown */
+    padding: 12px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #FFD79A; /* Soft golden yellow */
+    text-decoration: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px;
+    display: inline-block;
+    transition: background 0.3s, color 0.3s;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: #D55C32; /* Deep warm orange */
+    color: white;
+}
+
+/* Container & Row for Cards */
+.container {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* Bootstrap Card Styling */
+.card {
+    width: 18rem;
+    background: linear-gradient(to bottom, #FFE6C7, #FFD8A8); /* Warm peach gradient */
+    border: 2px solid #D55C32; /* Deep orange border */
+    border-radius: 12px;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    margin: 20px;
+}
+
+.card:hover {
+    transform: scale(1.05); /* Slight zoom effect */
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Card Image */
+.card img {
+    height: 200px;
+    object-fit: cover;
+    border-bottom: 3px solid #D55C32; /* Orange separator */
+}
+
+/* Card Text */
+.card-title {
+    color: #9C3D20; /* Rich brown title */
+    font-weight: bold;
+}
+
+.card-text {
+    color: #5A3E2B; /* Warm brown for descriptions */
+}
+
+/* Button */
+.btn-primary {
+    background-color: #D55C32; /* Warm orange */
+    border: none;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.btn-primary:hover {
+    background-color: #9C3D20; /* Darker brown-orange */
+}
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #FFEDD5, #FAE5D3); /* Warm gradient background */
+    color: #5A3E2B; /* Warm brown text */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+/* Navigation */
+nav {
+    background-color: #9C3D20; /* Rich warm brown */
+    padding: 12px 0;
+    text-align: center;
+    width: 100%;
+}
+
+nav a {
+    color: #FFD79A; /* Soft golden yellow */
+    text-decoration: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px;
+    display: inline-block;
+    transition: background 0.3s, color 0.3s;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: #D55C32; /* Deep warm orange */
+    color: white;
+}
+
+/* Centering the Card */
+.card {
+    width: 22rem;
+    background: linear-gradient(to bottom, #FFE6C7, #FFD8A8); /* Warm peach gradient */
+    border: 2px solid #D55C32; /* Deep orange border */
+    border-radius: 12px;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    margin: 40px auto; /* Centers the card */
+    text-align: center;
+    padding: 20px;
+}
+
+/* Card Hover Effect */
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Card Image */
+.card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-bottom: 3px solid #D55C32; /* Orange separator */
+    border-radius: 8px;
+}
+
+/* Card Text */
+.card-title {
+    color: #9C3D20; /* Rich brown title */
+    font-weight: bold;
+}
+
+.card-text {
+    color: #5A3E2B; /* Warm brown for descriptions */
+}
+
+/* YouTube Video Styling */
+iframe {
+    width: 100%;
+    height: 300px;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+/* Button Styling */
+.btn-primary {
+    background-color: #D55C32; /* Warm orange */
+    border: none;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.btn-primary:hover {
+    background-color: #9C3D20; /* Darker brown-orange */
+}
+/* https://chatgpt.com/share/67a3b619-e114-8000-bffb-1102db811954 */
