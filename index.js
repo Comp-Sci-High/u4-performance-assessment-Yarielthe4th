@@ -14,7 +14,7 @@ const inv = [
           des: "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
           Resc: "made with eggs, cheese, pancetta, and pepper",
           bttew:"Best with Garlic Bread, Red Wine",
-          ytl:"https://www.youtube.com/watch?v=4F1JcvnsBRc",
+          ytl:"https://www.youtube.com/embed/4F1JcvnsBRc?si=r_VE21x6PSwet67I",
           path:"/r/0"
         },
         {
@@ -23,7 +23,7 @@ const inv = [
             des: "rice seasoned with sweetened vinegar and often topped or filled with a variety of ingredients such as seafood (both raw and cooked) and vegetables.",
             Resc: " rice, fish, and nori (seaweed).",
             bttew:"best with  Soy Sauce, Wasabi, Pickled Ginger",
-            ytl:"https://www.youtube.com/watch?v=nIoOv6lWYnk",
+            ytl:"https://www.youtube.com/embed/nIoOv6lWYnk?si=8xFIWBOTZt-og4wC",
             path:"/r/1"
           },
           {
@@ -32,7 +32,7 @@ const inv = [
             des: "an internationally popular hand-sized food item of Mexican origin combining seasoned meat, vegetables, and other fillings and served inside a folded or rolled corn or flour tortilla",
             Resc: "ground meat (like beef, chicken, or pork), taco seasoning, onions, tomato sauce, tortillas (hard or soft), cheese, lettuce, tomatoes, salsa, guacamole, sour cream, and optional toppings like cilantro, lime wedges, and hot sauce",
             bttew:"Best with Guacamole, Salsa, Lime",
-            ytl:"https://www.youtube.com/watch?v=ALeF0GUCSSk",
+            ytl:"https://www.youtube.com/embed/nIoOv6lWYnk?si=8xFIWBOTZt-og4wC",
             path:"/r/2"
           },
           {
@@ -41,7 +41,7 @@ const inv = [
             des: " a patty of ground beef grilled and placed between two halves of a bun. Slices of raw onion, lettuce, bacon, mayonnaise, and other ingredients add flavor. Burgers are considered an American food but are popular around the world.",
             Resc: "1 lb 85/15 ground beef (chuck and brisket),2 oz frozen unsalted butter,1 tbsp granulated garlic or garlic powder,1.5 tbsp Maldon salt.1 tbsp fresh cracked black pepper,1 tbsp olive oil,2 slices swiss cheese.",
             bttew:"Best with fries and soda",
-            ytl:"https://www.youtube.com/watch?v=BIG1h2vG-Qg",
+            ytl:"https://www.youtube.com/embed/BIG1h2vG-Qg?si=Fl2A5Nois7xBcJ8M",
             path:"/r/3"
           },
           {
@@ -50,7 +50,7 @@ const inv = [
             des: "a Japanese noodle soup, with a combination of a rich flavoured broth, one of a variety of types of noodle and a selection of meats or vegetables, often topped with a boiled egg.",
             Resc: "ramen noodles,scallions ,salt ,garlic soy sauce ",
             bttew:"Best with Soft-boiled Egg, Green Onions",
-            ytl:"https://www.youtube.com/watch?v=r3_tcQiyGG8",
+            ytl:"https://www.youtube.com/embed/r3_tcQiyGG8?si=noIQdsNiDHnyCSP6",
             path:"/r/4"
           },
           {
@@ -59,7 +59,7 @@ const inv = [
             des: "a dish of saffron-flavoured rice cooked with meats, seafood, and vegetables",
             Resc: " rice, saffron, vegetables, chicken, and seafood.",
             bttew:"Best with  Sangria, Bread ",
-            ytl:"https://www.youtube.com/watch?v=21NECl64HKE",
+            ytl:"https://www.youtube.com/embed/21NECl64HKE?si=dsYh0r2vQZcBLAwZ",
             path:"/r/5"
           },
           {
@@ -68,7 +68,7 @@ const inv = [
             des: "Butter chicken is a rich and flavorful Indian dish of chicken in a creamy, spiced tomato sauce",
             Resc: "chicken, tomato, onion, butter, ginger, garlic, garam masala, yogurt (for marinating), turmeric powder, coriander powder, cumin seeds, red chili powder, and sometimes cream or cashew paste",
             bttew:" best with Naan, Basmati Rice",
-            ytl:"https://www.youtube.com/watch?v=a03U45jFxOI",
+            ytl:"https://www.youtube.com/embed/a03U45jFxOI?si=DgpC0H-xQZARnVof",
             path:"/r/6"
           },
           {
@@ -77,7 +77,7 @@ const inv = [
             des: "A flaky, buttery pastry enjoyed for breakfast or as a snack",
             Resc: " flour, water, milk, sugar, salt, yeast, and a significant amount of butter",
             bttew:"Best with  Coffee, Jam ",
-            ytl:"https://www.youtube.com/watch?v=djnNkLi_K6E",
+            ytl:"https://www.youtube.com/embed/djnNkLi_K6E?si=ZhFygzACBzs7SBq2",
             path:"/r/7"
           },
       ]
